@@ -6,7 +6,7 @@
 
 ---
 
-- Lista de estudos atualmente...
+### Lista de estudos atualmente...
 - [x] **Python** - *Fundamentos/Básico*
 - [x] **Git & Github**
 - [ ] **HTML + CSS**
