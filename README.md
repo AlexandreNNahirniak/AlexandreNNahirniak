@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, eu sou o Alexandre ✌️
+- 👨‍💻Estou estudando **Análise e Desenvolvimento de Sistemas**
+- 📚Eu estou estudando **Git & Github** e **Python**
+- ⏭️Os próximos estudos vão ser sobre: _**HTML**_ + _**CSS**_ e após _**Javascrip!**_
+- ✉️Meu e-mail: alexandrenahirniak.curriuclo@gmail.com
 
-<!--
-**AlexandreNNahirniak/AlexandreNNahirniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- Lista de estudos atualmente...
+- [x] **Python** - *Fundamentos/Básico*
+- [x] **Git & Github**
+- [ ] **HTML + CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Alexandre-Python" height="45" width"55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Alexandre-Git" height="45" width"55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Alexandre-Github" height="45" width"55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+</div>
