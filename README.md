@@ -1,7 +1,7 @@
 ## Olá, eu sou o Alexandre ✌️
 - 👨‍💻Estou estudando **Análise e Desenvolvimento de Sistemas**
 - 📚E também estou estudando **Git & Github** e **Python**
-- ⏭️Os próximos estudos vão ser sobre: _**HTML**_ + _**CSS**_ e após _**Javascrip!**_
+- ⏭️Os próximos estudos vão ser sobre: _**HTML**_ + _**CSS**_ e após _**JavaScript!**_
 - ✉️Meu e-mail: alexandrenahirniak.curriuclo@gmail.com
 ***
 ### Lista de estudos atualmente...
