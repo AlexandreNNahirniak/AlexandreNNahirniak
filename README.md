@@ -1,13 +1,15 @@
 ## Olá, eu sou o Alexandre ✌️
 - 👨‍💻Estou estudando **Análise e Desenvolvimento de Sistemas**
-- 📚E também estou estudando **Git & Github**
-- ⏭️Os próximos estudos vão ser sobre: _**HTML**_ + _**CSS**_ e após _**JavaScript!**_
+- 📚E também estou estudando **HTML5 & CCS3**
+- ⏭️O próximo estudo vai ser sobre: _**JavaScript!**_
 - ✉️Meu e-mail: alexandrenahirniak.curriuclo@gmail.com
 ***
 ### Lista de estudos atualmente...
-- [x] **Python** - *Fundamentos/Básico*
-- [x] **Git & Github**
-- [ ] **HTML + CSS**
+- [x] **Python** - *Fundamentos/Básico - Concluído
+- [x] **Git & Github** - Concluído
+- [X] **Hardware** - Concluído
+- [ ] **HTML + CSS** - *Atualmente*
+- [ ] **JavaScript** - Em breve
 ***
 <div style="display: inline_block"><br>
   <img align="center" alt="Alexandre-Python" height="55" width"55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
