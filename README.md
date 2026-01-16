@@ -5,7 +5,7 @@
 - ✉️Meu e-mail: alexandrenahirniak.curriuclo@gmail.com
 ***
 ### Lista de estudos atualmente...
-- [x] **Python** - *Fundamentos/Básico - Concluído
+- [x] **Python** - *Fundamentos/Básico* - Concluído
 - [x] **Git & Github** - Concluído
 - [X] **Hardware** - Concluído
 - [ ] **HTML + CSS** - *Atualmente*
