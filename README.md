@@ -1,6 +1,6 @@
 ## Olá, eu sou o Alexandre ✌️
 - 👨‍💻Estou estudando **Análise e Desenvolvimento de Sistemas**
-- 📚E também estou estudando **HTML5 & CCS3**
+- 📚E também estou estudando **HTML5 & CSS3**
 - ⏭️O próximo estudo vai ser sobre: _**JavaScript!**_
 - ✉️Meu e-mail: alexandrenahirniak.curriculo@gmail.com
 ***
