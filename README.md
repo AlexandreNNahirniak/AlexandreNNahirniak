@@ -8,7 +8,8 @@
 - [x] **Python** - *Fundamentos/Básico* - Concluído
 - [x] **Git & Github** - Concluído
 - [X] **Hardware** - Concluído
-- [ ] **HTML + CSS** - *Atualmente*
+- [X] **HTML5 + CSS3** - *Básico*
+- [ ] **HTML5 + CSS3 - Intermediário** - Em Andamento
 - [ ] **JavaScript** - Em breve
 ***
 <div style="display: inline_block"><br>
