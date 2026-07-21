@@ -8,7 +8,5 @@
 - [x] **Python** - *Fundamentos/Básico* - Concluído
 - [x] **Git & Github** - Concluído
 - [X] **Hardware** - Concluído
-- [X] **HTML5 + CSS3** - *Básico* - Concluído
-- [ ] **HTML5 + CSS3 - Intermediário** - Em Andamento
-- [ ] **JavaScript** - Em breve
+- [X] **HTML5 + CSS3** - Concluído
 ***
